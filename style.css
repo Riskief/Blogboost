@@ -1,3 +1,20 @@
+body {
+   background-image: linear-gradient(khaki, rgb(255, 249, 249));
+}
+p {
+   font-family: "Festive", cursive;
+}
+h1,
+h2 {
+   font-family: "Dancing Script", cursive;
+}
+.py-5.text-center.container {
+   padding-left: 40px;
+   padding-right: 40px;
+}
+.navbar {
+   padding: 0px;
+}
 .navbar-nav {
    display: flex;
    justify-content: flex-end;
@@ -11,7 +28,6 @@
    margin-right: 150px;
 }
 .nav-link.active {
-   color: #fff;
    background-color: khaki;
    margin: 0px;
    /* margin-top: 10px; */
