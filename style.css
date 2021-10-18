@@ -1,11 +1,7 @@
 body {
    background-image: linear-gradient(khaki, rgb(255, 249, 249));
 }
-p {
-   font-family: "Festive", cursive;
-}
-h1,
-h2 {
+h1 {
    font-family: "Dancing Script", cursive;
 }
 .py-5.text-center.container {
